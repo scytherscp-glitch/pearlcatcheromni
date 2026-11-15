@@ -1,4 +1,9 @@
-{
+{"entrypoints": {
+  "client": [
+    "com.yourname.ipc.PredictivePearlCatchClient"
+  ]
+},
+	
 	"schemaVersion": 1,
 	"id": "modid",
 	"version": "${version}",
